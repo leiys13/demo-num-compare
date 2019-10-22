@@ -1,2 +1,2 @@
-# demo-num-compare
+# demo-wx-num-compare
 numerical comparison
